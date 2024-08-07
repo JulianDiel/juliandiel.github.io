@@ -220,11 +220,14 @@ section.especialidades .flex {
 }
 
 .especialidades .especialidades-box {
+    display: flex;
+    flex-direction: row;
     color: #fff;
     padding: 40px;
     border-radius: 20px;
     margin-top: 45px;
     transition: .2s;
+   
 
 }
 
