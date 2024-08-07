@@ -1,0 +1,5 @@
+<p>Olá, meu nome é Julian Diel, sou de Porto Alegre-RS. Sou estudante de Tecnologia e Programador Front End especializado em React.js e TypeScript.
+
+                Minha jornada no desenvolvimento web começou com os fundamentos de HTML5, CSS3 e JavaScript, e se aprofundou através da conclusão do Bootcamp Labenu (Web FullStack em 2022).Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMES, onde continuo a expandir meus conhecimentos e habilidades.
+                
+                Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar minhas competências técnicas, além de colaborar em projetos inovadores que possam fazer a diferença.</p>
