@@ -18,6 +18,7 @@ Thanks (pós envio email via formulario){
 ![Captura de tela 2024-08-07 155852](https://github.com/user-attachments/assets/73d8be58-6cbe-4e7d-aa5c-394db4e71eff)
 
 }
+
 git add.
 git commit - m ""
 git push
