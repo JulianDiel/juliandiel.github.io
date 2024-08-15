@@ -161,7 +161,7 @@ color: #fff;
 
 /*Estilo do Topo do Site*/
 section.topo-do-site {
-    padding: 40px %;
+    padding: 40px 4%;
 }
 
 section.topo-do-site .flex {
